@@ -1,0 +1,13 @@
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06\Class06\bin\Debug\Class06.exe.config
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06\Class06\bin\Debug\Class06.exe
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06\Class06\bin\Debug\Class06.pdb
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06\Class06\obj\Debug\Class06.csproj.CoreCompileInputs.cache
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06\Class06\obj\Debug\Class06.exe
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06\Class06\obj\Debug\Class06.pdb
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06-クラスの継承\Class06\bin\Debug\Class06.exe.config
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06-クラスの継承\Class06\bin\Debug\Class06.exe
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06-クラスの継承\Class06\bin\Debug\Class06.pdb
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06-クラスの継承\Class06\obj\Debug\Class06.csprojResolveAssemblyReference.cache
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06-クラスの継承\Class06\obj\Debug\Class06.csproj.CoreCompileInputs.cache
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06-クラスの継承\Class06\obj\Debug\Class06.exe
+C:\Users\yukim\TheWaggle\Vantan\授業\Class06-クラスの継承\Class06\obj\Debug\Class06.pdb

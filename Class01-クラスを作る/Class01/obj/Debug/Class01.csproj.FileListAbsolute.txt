@@ -1,0 +1,7 @@
+C:\Users\yukim\TheWaggle\Vantan\授業\Class01\Class01\bin\Debug\Class01.exe.config
+C:\Users\yukim\TheWaggle\Vantan\授業\Class01\Class01\bin\Debug\Class01.exe
+C:\Users\yukim\TheWaggle\Vantan\授業\Class01\Class01\bin\Debug\Class01.pdb
+C:\Users\yukim\TheWaggle\Vantan\授業\Class01\Class01\obj\Debug\Class01.csprojResolveAssemblyReference.cache
+C:\Users\yukim\TheWaggle\Vantan\授業\Class01\Class01\obj\Debug\Class01.csproj.CoreCompileInputs.cache
+C:\Users\yukim\TheWaggle\Vantan\授業\Class01\Class01\obj\Debug\Class01.exe
+C:\Users\yukim\TheWaggle\Vantan\授業\Class01\Class01\obj\Debug\Class01.pdb
